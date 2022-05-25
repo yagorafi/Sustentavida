@@ -1,0 +1,67 @@
+*{margin: 0;padding: 0;
+    box-sizing: border-box;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.header{width: 100%;}
+
+
+.nav-link:hover{
+  color: #73cd5e!important;
+  transition: 1s;
+    
+}
+
+@media(max-width:668px){
+    .nav-link{text-align: center;}
+}
+
+.logo{
+    border-radius: 15px;
+    width: 50px;
+    height: 50px; 
+}
+.BioCombustiveis{
+  padding-top: 250px;
+}
+.Biomassa{
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+.Biodiesel{
+    padding-top: 150px;
+}
+.Biogas{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.biocombustíveis-paragrafo{
+    font-size: 15px;
+}
+.biomassa-paragrafo{
+    font-size: 15px;
+
+}
+
+.biogas-paragrafo{
+    font-size: 15px;
+}
+.featurette-heading{
+    color: #73cd5e;
+}
+
+p{
+    font-size: 18px;
+    
+}
+.card-text{
+    font-size: 15px;
+}
+.card-body{
+   
+   
+}
+
